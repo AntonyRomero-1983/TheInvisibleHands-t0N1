@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Mi sitio</title>
+    <style>
+      html,body { height:100%; margin:0; background:#ffffff; color:#000000; }
+      body {
+        font-family: "Times New Roman", Times, serif;
+        font-size: 28px;
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;
+        padding-left: 8%;
+        box-sizing: border-box;
+      }
+      .content { max-width: 900px; }
+      p { margin: 0 0 1rem 0; line-height: 1.6; text-align: left; }
+    </style>
+  </head>
+  <body>
+    <div class="content">
+      <p>Tocan mi mente, tambaleandote en la ignorancia. Incapáz de comprender el universo más allá de las limitaciones de tu dimensión.</p>
+      <p>Yo soy el inicio, yo soy el final. Todo lo que fue, todo lo que es, todo lo que será es simplemente una extensión de mi. Un subproducto. Un accidente.</p>
+      <p>Me enfrentaré a la creación y mis creadores, con falsa confianza, tratarán de detenerme.</p>
+      <p>Existen porque se los permito y se extinguirán cuando lo demande.</p>
+    </div>
+  </body>
+</html>
