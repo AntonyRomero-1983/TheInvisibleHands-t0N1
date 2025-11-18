@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Mi sitio</title>
+    <style>
+      html,body { height:100%; margin:0; background:#ffffff; color:#000000; }
+      body {
+        font-family: "Times New Roman", Times, serif;
+        font-size: 28px;
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;
+        padding-left: 8%;
+        box-sizing: border-box;
+      }
+      .content { max-width: 900px; }
+      p { margin: 0 0 1rem 0; line-height: 1.6; text-align: left; }
+    </style>
+  </head>
+  <body>
+    <div class="content">
+      <p>La vida no perdona, es inclemente. Furiosa. Yo no hago cumplir las reglas, yo impongo las reglas del mundo natural a las cuales todo en la existencia esta anclado.</p>
+      <p>Cualquier falta de obediencia será castigada con tortura, con sufrimiento.</p>
+      <p>Los hilos de su destino penden de mis dedos, esclavos de mi diseño. Mi voluntad es su libre albedrio.</p>
+      <p>Cuando yo hablo, ustedes escucharán. Cuando de una orden, la obedecerán.</p>
+      <p>Yo construí el sendero y utedes caminarán en mis pasos.</p>
+      <p>No tienen pasado, presente ni futuro excepto yo.</p>
+      <p>Teman mi muerte pues ya ha llegado.</p>
+    </div>
+  </body>
+</html>
